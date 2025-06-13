@@ -17,7 +17,7 @@ A simple console-based Hospital Management System developed in Java. This projec
   
 - Schedule **Appointments** between patients and doctors
 - 
-- ![Appointments](Appointment_img.png);
+- ![Appointments](Appointment_Img.png);
 - 
 - View lists of Patients, Doctors, and Appointments
 - Unique ID generation for each Patient and Doctor
