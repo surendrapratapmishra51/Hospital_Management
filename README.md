@@ -12,9 +12,11 @@ A simple console-based Hospital Management System developed in Java. This projec
 - ![Add_Patient ](AddPatient.png)
   
 - Add and manage **Doctors** with specializations
+  
   ![Add_Dr](AddDr.png)
   
 - Schedule **Appointments** between patients and doctors
+- 
 - ![Appointments](Appointment_img.png);
 - 
 - View lists of Patients, Doctors, and Appointments
